@@ -2,8 +2,7 @@
 
 Thanks for visiting my GitHub account!
 
-<img src ="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" height = "200px" width = "180px"/>
-**Java** is a popular OOP language. It is used to develop mobile apps, web apps, desktop apps, games, and much more. [See More](https://www.w3schools.com/java/)
+<img src ="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" height = "200px" width = "180px"/> **Java** is a popular OOP language. It is used to develop mobile apps, web apps, desktop apps, games, and much more. [See More](https://www.w3schools.com/java/)
 
 |                                                                              |
 | :--------------------------------------------------------------------------: |
