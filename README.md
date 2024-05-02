@@ -4,10 +4,10 @@ Thanks for visiting my GitHub account!
 
 <img src ="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" height = "200px" width = "180px"/> **Java** is a popular OOP language. It is used to develop mobile apps, web apps, desktop apps, games, and much more. [See More](https://www.w3schools.com/java/)
 
-|                                                                              |
-| :--------------------------------------------------------------------------: |
-|                                   Features                                   |
-| ![features](https://github.com/learnwithfair/java/blob/main/images/oops.png) |
+|                                                                              |                                       |
+| :--------------------------------------------------------------------------: | :-----------------------------------: |
+|                                     OOP                                      |               Features                |
+| ![features](https://github.com/learnwithfair/java/blob/main/images/oops.png) | ![features](images/java-features.jpg) |
 
 ### [Code-Example](https://github.com/learnwithfair/java)
 
