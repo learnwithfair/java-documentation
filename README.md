@@ -17,7 +17,9 @@ Thanks for visiting my GitHub account!
 - [Documentation](https://mega.nz/folder/RGFiUApD#PoKIVCwF8IkQhE2PHw1XxQ)
 - [Source-code](https://mega.nz/folder/ROF1WBTS#klvFbstilMZrMg_z1JeRhg)
 
-## [Overview of JAVA](https://fb.watch/rQIa_O6OT-/)
+## Overview of JAVA
+
+[![overview](images/java-overview.png)](https://fb.watch/rQIa_O6OT-/)
 
 ## Table of Contents
 
